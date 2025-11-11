@@ -1,0 +1,35 @@
+
+div.level1{
+    text-indent: 50px;
+}
+div.level2{
+    text-indent: 100px;
+}
+div.level3{
+    text-indent: 150px;
+}
+div.level4{
+    text-indent: 250px;
+}
+div.level5{
+    text-indent: 300px;
+}
+
+.boldtable, .boldtable td, .boldtable th {
+    font-family: sans-serif;   
+    font-size: 12pt;   
+    color: black;   
+    background-color: lightgray; 
+    border: 1px solid black;
+    }
+.boldtable th {
+    font-family: sans-serif;   
+    font-size: 12pt;   
+    color: black;   
+    background-color: gray; 
+    border: 1px solid black;
+    }
+
+
+
+
